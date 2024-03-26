@@ -62,10 +62,14 @@ margin-bottom: 100px;
 }
 .AboutClas h2{
     margin-top: 30px;
-    font-style: 32px;
+    font-size: 32px;
     font-family: "Libre Baskerville", serif;
 
 }
 p{
     color:#fff;
+}
+.AboutClas img{
+        width: 401px;
+        height: 349px;
 }

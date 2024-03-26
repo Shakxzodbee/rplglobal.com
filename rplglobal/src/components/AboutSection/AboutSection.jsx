@@ -8,7 +8,7 @@ function AboutSection() {
       <Container>
         <Row>
           <Col>
-            <img style={{ width: '401', height: '349px' }} src={AboutImg} alt="" />
+            <img src={AboutImg} alt="" />
           </Col>
           <Col className='textinfoAbout'>
             <h2>Rhydburg@Узбекистан</h2>

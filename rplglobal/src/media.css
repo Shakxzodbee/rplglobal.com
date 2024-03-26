@@ -11,6 +11,16 @@
     .Headerbg button{
         padding: 10px 20px;
     }
+    .AboutClas p{
+        padding: 10px;
+    }
+    .textinfoAbout{
+        width: 360px;
+        margin-left: 30px;
+    }
+    .textinfoAbout p{
+        font-size: 8px;
+    }
 }
 @media (max-width:975px) {
     .AboutClas img{
@@ -37,12 +47,28 @@
 }
 @media (max-width:416px) {
     .AboutClas p{
-  font-style: 14px;
+    font-size: 12px;
     }
+    .textinfoAbout{
+        width: 400px;
+        padding: 5px;
+    }
+    .AboutClas h2{
+        font-size: 25px;
+    }
+}
+@media (max-width:412px) {
     .textinfoAbout{
         width: 100%;
     }
-}
-@media (max-width) {
-    
+    .AboutClas p{
+        padding: 5px;
+    }
+    .AboutClas h2{
+        font-size: 20px;
+    }
+    .AboutClas img{
+        width: 301px;
+        height: 209px;
+    }
 }
