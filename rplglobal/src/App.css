@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+body {
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: "Arvo", serif;
+}
+.Headerbg {
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:center ;
+    background-size: cover;
+    background: linear-gradient(to right, rgba(254,247,237,1),rgba(255,255,255,0)),  
+    url(https://images.unsplash.com/photo-1577896852618-01da1dd79f7e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjQ1Nzk3fQ);
+    width: 100%;
+}
+.Headerbg div {
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+}
+.Headerbg h1 {
+    font-size: 48px;
+    color: #EB4D5E;
+    font-weight: 400;
+}
+p {
+    color: #555;
+    font-size: 16px;
+    font-family: "Noto Sans", sans-serif;
+    margin-top: 20px;
+}
+.Headerbg button {
+    background: #574CAE;
+    padding: 10px 35px;
+    color:#fff;
+    font-style: 14px;
+    margin-top: 20px;
+    border: none;
+}
+
+
+/* AboutClas css style start */
+.AboutClas{
+    margin-top: 80px;
+margin-bottom: 100px;
+}
+.AboutClas img{
+ width: 496px;
+ height: 329px;   
+}
+.AboutClas .textinfoAbout{
+    background-color:#574CAE;
+    text-align: center;
+    color:#fff;
+    margin-top: 30px;
+}
+.AboutClas h2{
+    margin-top: 30px;
+    font-style: 32px;
+    font-family: "Libre Baskerville", serif;
+
+}
+p{
+    color:#fff;
+}

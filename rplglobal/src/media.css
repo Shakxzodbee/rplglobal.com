@@ -1,0 +1,48 @@
+@media(max-width:360px){
+    .Headerbg {
+        width: 360px;
+    }
+    .Headerbg h1{
+        font-size: 30px;
+    }
+    .Headerbg p{
+        font-size: 12px;
+    }
+    .Headerbg button{
+        padding: 10px 20px;
+    }
+}
+@media (max-width:975px) {
+    .AboutClas img{
+        width: 700px;
+    }
+    .AboutClas p{
+        font-style: 13px;
+    }
+}
+@media (max-width:770px) {
+    .AboutClas img{
+        width: 700px;
+    }
+}
+@media (max-width:768px) {
+    .AboutClas img{
+        width: 520px;
+    }
+}
+@media (max-width:575px) {
+    .AboutClas img{
+        width: 400px;
+    }
+}
+@media (max-width:416px) {
+    .AboutClas p{
+  font-style: 14px;
+    }
+    .textinfoAbout{
+        width: 100%;
+    }
+}
+@media (max-width) {
+    
+}
